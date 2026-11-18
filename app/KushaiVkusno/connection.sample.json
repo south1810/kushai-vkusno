@@ -1,0 +1,7 @@
+{
+  "Server": "localhost",
+  "Port": 3306,
+  "Database": "isp-45_dolgih_ka_dolgih_schema2",
+  "User": "root",
+  "Password": "ВПИШИТЕ_ПАРОЛЬ"
+}

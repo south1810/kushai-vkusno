@@ -1,0 +1,14 @@
+# Сборка и артефакты
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# Настройки подключения к БД с паролем
+connection.json
+
+# Служебные файлы
+.DS_Store
+Thumbs.db
+*.log
